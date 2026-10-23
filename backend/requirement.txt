@@ -1,0 +1,19 @@
+langchain-google-genai
+python-dotenv
+fastapi
+uvicorn[standard] 
+pydantic
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pytest
+langgraph
+langchain-google-genai
+tavily-python
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+chromadb langchain-chroma 
+langchain-text-splitters 
+pypdf
+python-multipart
